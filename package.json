@@ -1,0 +1,23 @@
+{
+  "name": "normal-captcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kratzky/normal-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kratzky/normal-example/issues"
+  },
+  "homepage": "https://github.com/kratzky/normal-example#readme",
+  "dependencies": {
+    "request-promise": "^4.2.4"
+  }
+}
